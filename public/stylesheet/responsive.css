@@ -34,7 +34,7 @@
 } 
 
 
-@media (max-width: 767.98px) {
+@media (max-width: 768px) {
    
      .circle-response .cir1{
     position: relative;
@@ -66,12 +66,12 @@
         width: 100% !important;
     }
 }
-@media only screen and (min-width:481px) and (max-width:767px){
+@media only screen and (min-width:481px) and (max-width:768px){
     #photoSection{
         max-height: 500px;
     }
     #photoSection .row{
-        transform: translate(-50px, 5px) !important;
+        transform: translate(-50px, -120px) !important;
 
     }
 
