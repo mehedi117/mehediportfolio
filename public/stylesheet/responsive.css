@@ -1,0 +1,186 @@
+@media only screen and (max-width: 991.98px){
+
+    .circle-response .cir1{
+    position: relative;
+        left: -60px;
+    }
+    .circle-response .cir2{
+        position: relative;
+        top: -206px;
+        left: 150px;
+    }
+    .circle-response .cir3{
+        position: relative;
+        top: -185px;
+        left: -59px;
+    }
+    .circle-response .cir4{
+        min-width: 86px;
+        position: relative;
+        top: -416px;
+        left: 150px;
+        
+    }
+    .other-skill{padding: 0;}
+}
+@media only screen and (min-width:768px) and (max-width: 991px){
+    #my-skill .circle-response{
+        height: 500px;
+      }
+      #my-skill .col-md-6:last-child .d-flex{
+        position: relative;
+        left: -12px;
+}
+} 
+
+
+@media (max-width: 767.98px) {
+   
+     .circle-response .cir1{
+    position: relative;
+        left: 0px;
+    }
+    .circle-response .cir2{
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    .circle-response .cir3{
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    .circle-response .cir4{
+        min-width: 0px;
+        position: relative;
+        top: 0px;
+        left: 0px;
+    }
+    
+
+    #my-skill .col-md-6:last-child .d-flex{
+            position: relative;
+            left: -25px;
+    }
+    #message form{
+        width: 100% !important;
+    }
+}
+@media only screen and (min-width:481px) and (max-width:767px){
+    #photoSection{
+        max-height: 500px;
+    }
+    #photoSection .row{
+        transform: translate(-50px, 5px) !important;
+
+    }
+
+}
+
+@media only screen and (max-width: 480px){
+    #photoSection{height: 250px;top: 48px;}
+    #photoSection .row{
+        height: 250px;
+        margin-left: 7px !important;
+    }
+    h1,h2{
+        font-size: 1.5rem;
+    }
+    html{
+        scroll-behavior: smooth;
+        font-size: 85% !important;
+      }
+    #photoSection .btn-outline-dark{
+        width: 90px !important;
+        font-size: 0.8rem !important;
+    }
+
+    #my-work .m-auto {
+        transform: translate(-25px, 10px);
+    }
+    .circle-response{
+        display: block !important;
+        transform: translate(45px, 10px);
+
+    }
+    #message input {
+        font-size: 12px !important;
+        height:35px;
+        width:100% !important;
+        margin-top: 14px !important;
+    }
+    #message .Subject{
+        font-size: 13px !important;
+        margin-top: 11px !important;
+    }
+     #message textarea {
+        font-size: 13px !important;
+        margin-top: 8px !important;
+    }
+
+    #my-skill .col-md-3 p{
+        font-size: 1.2rem !important;
+        margin-top: 0px;
+
+    }
+    .cir4{
+        margin-top: 0 !important;
+    }
+    #my-achievement .jumbotron-text .px-5{
+        padding: 0 6rem !important;
+        padding-top: 2rem !important;
+    }
+    #my-achievement .jumbotron-text .px-5:first-child{
+        padding-top: 0rem !important;
+    }
+    #my-achievement .container{
+        padding: 3rem;
+
+    }
+    #photoSection span{
+        display: block;
+    }
+    #photoSection h1{
+        margin: 0;
+        margin-bottom: 5px;
+    }
+    #photoSection p{
+        font-size: 0.8rem !important;
+        margin-top: 0.4rem !important;
+    }
+    #photoSection .btn{
+        width: 66px !important;
+        font-size: 0.6rem !important;
+    }
+
+}
+    
+
+
+
+
+
+
+
+/* @media only screen and (max-width: 575.98px){
+} */
+
+/* 
+@media (max-width: 575.98px) {
+
+}
+
+/* Small devices (landscape phones, less than 768px) */
+/* @media (max-width: 767.98px) {
+    .other-skill{padding: 0;}
+} */
+
+/* // Medium devices (tablets, less than 992px) */
+/* @media (max-width: 991.98px) {
+
+} */
+
+/* // Large devices (desktops, less than 1200px) */
+/* @media (max-width: 1199.98px) {
+
+} */
